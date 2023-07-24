@@ -98,9 +98,3 @@ docker run -d --name midjourney-proxy \
 - [koishi-plugin-midjourney-discord](https://github.com/araea/koishi-plugin-midjourney-discord) : Koishi插件，在Koishi支持的聊天平台中调用Midjourney
 - 依赖此项目且开源的，欢迎联系作者，加到此处展示
 
-## 其它
-如果觉得这个项目对你有所帮助，请帮忙点个star；也可以请作者喝杯茶～
-
- <img src="https://raw.githubusercontent.com/novicezk/midjourney-proxy/main/docs/receipt-code.png" width="220" alt="二维码"/>
-
-![Star History Chart](https://api.star-history.com/svg?repos=novicezk/midjourney-proxy&type=Date)
